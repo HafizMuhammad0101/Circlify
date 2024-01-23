@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: "Poppins" !important;
+}
+
+.formParent {
+    background-color: black !important;
+}
+
+/* form */
+.h100 {
+    height: 100vh !important;
+}
+
+.bg-form {
+    height: 60vh;
+    border-radius: 35px !important;
+}
+
+.formField {
+    background: none;
+    padding: 10px 20px;
+    width: 50% !important;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+.fw-600 {
+    font-weight: 600 !important;
+}
+
+input:focus-visible {
+    outline: none !important;
+}

@@ -4,7 +4,7 @@
   "description": "Learning modules by modules",
   "main": "index.js",
   "scripts": {
-    "dev": "npm run index.js"
+    "dev": "nodemon src/index.js"
   },
   "type": "module",
   "keywords": [
@@ -18,5 +18,8 @@
     "express": "^4.18.2",
     "mongoose": "^8.1.0",
     "nodemailer": "^6.9.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
   }
 }

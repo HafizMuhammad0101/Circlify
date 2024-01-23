@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Learning modules by modules",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "Programming"
+  ],
+  "author": "HafizMuhammad",
+  "license": "ISC"
+}
